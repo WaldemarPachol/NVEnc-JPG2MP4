@@ -3,11 +3,11 @@
 #
 # Ustawienia
 #
-input_dir="."  # Katalog wejściowy z plikami JPG
-output_file="output.mp4"  # Nazwa pliku wyjściowego MP4
-block_size=50  # Liczba obrazów w jednym bloku obróbki
-max_instances=4  # Maksymalna liczba równoczesnych instancji ffmpeg
-video_bitrate="50M"  # Bitrate wideo
+input_dir="."              # Katalog wejściowy z plikami JPG
+output_file="output.mp4"   # Nazwa pliku wyjściowego MP4
+block_size=50              # Liczba obrazów w jednym bloku obróbki
+max_instances=4            # Maksymalna liczba równoczesnych instancji ffmpeg
+video_bitrate="50M"        # Bitrate wideo
 
 #
 # Sprawdź, czy katalog wejściowy istnieje
