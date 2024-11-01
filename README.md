@@ -20,5 +20,8 @@ video_bitrate="50M"       # this is the video bitrate
 ```
 ./convert_jpg_to_mp4.sh
 ```
+
+If you enjoyed this code, consider sending $1 my way: https://www.paypal.com/paypalme/WaldemarPachol. Thanks a lot!
+
 Have fun!
 Waldemar
