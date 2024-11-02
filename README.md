@@ -16,7 +16,7 @@ video_bitrate="50M"       # this is the video bitrate
 **Note:** Maximum number of concurrent ffmpeg instances, depending on your GPU's memory. For example, my GTX 1050 has 4GB of RAM, and max_instances is 5 for me. Above this value, I run out of memory, and the conversion is not performed correctly. If you see a lot of red text, reduce this value. 
 
 4. Save the file and give it executable permissions.
-5. Open a console with timelapse images and run in the console:
+5. Open a terminal in the timelapse images folder and run the file:
 ```
 ./convert_jpg_to_mp4.sh
 ```
