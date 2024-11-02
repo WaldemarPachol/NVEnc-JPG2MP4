@@ -3,7 +3,7 @@ Multithreaded nvenc jpg to mp4 converter.
 
 How to use:
 1. Download the file and save it in the folder with the timelapse images for conversion.
-2. The files should be named `0001.jpg`, `0002.jpg`, `0003.jpg`, and so on.
+2. The image files should be named `0001.jpg`, `0002.jpg`, `0003.jpg`, and so on.
 3. Open and edit the file `convert_jpg_to_mp4.sh`:
 
 ```
